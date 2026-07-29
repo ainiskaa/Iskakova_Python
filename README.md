@@ -1,7 +1,9 @@
 # Task 1: Algorithm
-1. Print "Hello" if the number is greater than 7;
-2. Print "Hello, John" if the name is "John" (upper or lower case insensitive);
-3. Print numbers that can be divided by 3 from the entered list. If there is none, then print "There are no numbers divisible by 3."
+1. Prints "Hello" if the entered number is greater than 7;
+2. Prints "Hello, John" if the name is "John" (upper or lower case insensitive).
+     - Otherwise prints "There is no such name";
+4. Prints all numbers that can be divided by 3 from the entered list.
+     - If there are none, prints "There are no numbers divisible by 3."
 
 
 # Task 2: Bracket sequence
